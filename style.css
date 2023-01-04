@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+}
+.contenedor{
+ background-image: url("img/descarga.png"); 
+ height: 50vh;
+ margin: 5%;   
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.contenido{
+text-align: right;
+}
