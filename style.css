@@ -2,7 +2,7 @@ body{
     font-family: sans-serif;
 }
 .contenedor{
- background-image: url("img/descarga.png"); 
+ background-color: blue;"); 
  height: 50vh;
  margin: 5%;   
 
